@@ -6,5 +6,12 @@
     "verifier": "Tabbi",
     "verification": "https://www.youtube.com/watch?v=It1NJ1RRKXw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+{
+    "user": "Augury",
+    "link": "https://youtu.be/Vns55E7wQm0",
+    "percent": 100,
+    "hz": 144
+}
+    ]
 }
