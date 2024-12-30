@@ -6,5 +6,12 @@
     "verifier": "Classic",
     "verification": "https://www.youtube.com/watch?v=hchQpAak10E",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+{
+    "user": "Taraco",
+    "link": "https://www.youtube.com/watch?v=Vns55E7wQm0",
+    "percent": 100,
+    "hz": 75
+}
+    ]
 }
