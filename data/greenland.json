@@ -6,5 +6,12 @@
     "verifier": "Tabbi",
     "verification": "https://www.youtube.com/watch?v=GAcYi527CSo",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+{
+    "user": "Raezori",
+    "link": "https://www.youtube.com/watch?v=cu5KESkZbMc&list=PLTOqyzm614NTsUq2sfBIa75xeFSLQYB-S&index=3",
+    "percent": 100,
+    "hz": 360
+}
+    ]
 }
