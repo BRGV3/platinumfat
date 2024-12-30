@@ -6,12 +6,4 @@
     "verifier": "Sightnado",
     "verification": "https://www.youtube.com/watch?v=l2LdSQzTSDE",
     "percentToQualify": 100,
-    "records": [
-{
-    "user": "taraco",
-    "link": "https://youtu.be/Vns55E7wQm0",
-    "percent": 100,
-    "hz": 144
-}
-    ]
-}
+    "records": []
