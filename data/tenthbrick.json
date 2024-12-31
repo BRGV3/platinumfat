@@ -6,5 +6,12 @@
     "verifier": "Setitic",
     "verification": "https://www.youtube.com/watch?v=Tx9dC_eXdOA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+{
+    "user": "Inidevy4732",
+    "link": "https://www.youtube.com/watch?v=k020-iYMo6Q",
+    "percent": 100,
+    "hz": 360
+}
+    ]
 }
